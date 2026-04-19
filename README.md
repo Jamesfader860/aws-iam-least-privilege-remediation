@@ -1,5 +1,6 @@
-<img width="1333" height="520" alt="01-iam-user-setup" src="https://github.com/user-attachments/assets/8f8e6ab7-4c1e-4088-b51a-af9a76b6dd0b" /><img width="1307" height="428" alt="03-risk-verification-test" src="https://github.com/user-attachments/assets/ec7bbc33-623b-4fa9-b339-15962dd2c0ab" />
+<img width="1333" height="520" alt="01-iam-user-setup" src="https://github.com/user-attachments/assets/8f8e6ab7-4c1e-4088-b51a-af9a76b6dd0b" />
 <img width="1318" height="502" alt="02-overprivileged-admin" src="https://github.com/user-attachments/assets/4ef2b121-ddd2-49df-8f85-b4cfe071d2b1" />
+<img width="1307" height="428" alt="03-risk-verification-test" src="https://github.com/user-attachments/assets/f2e4a1e7-7df1-4991-92ec-3a88b3ae87a3" />
 <img width="1334" height="534" alt="04-access-analyzer-audit" src="https://github.com/user-attachments/assets/ba68302c-87d4-4418-a498-cce80a4fa77d" />
 <img width="1306" height="455" alt="05-iam-wildcard-policy-draft" src="https://github.com/user-attachments/assets/00bc01dc-e61c-4d98-8873-501dfb710457" />
 <img width="1300" height="523" alt="06-least-privilege-json" src="https://github.com/user-attachments/assets/6d8ead4f-d5ce-446f-9537-07c1305e23d9" />
